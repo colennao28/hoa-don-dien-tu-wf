@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hoa-don-dien-tu-wf", "hoa-don-dien-tu-wf\hoa-don-dien-tu-wf.csproj", "{859DA67E-3EF2-4452-B823-63B0BD629392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{859DA67E-3EF2-4452-B823-63B0BD629392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859DA67E-3EF2-4452-B823-63B0BD629392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859DA67E-3EF2-4452-B823-63B0BD629392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859DA67E-3EF2-4452-B823-63B0BD629392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B159825-CA4E-4A33-9DDD-61E6139990CB}
+	EndGlobalSection
+EndGlobal
